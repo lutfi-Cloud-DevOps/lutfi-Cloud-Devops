@@ -1,53 +1,68 @@
-Hi, I'm Ahmadullah Lutfi👋
-Linux System Administrator | IT Infrastructure | DevOps Enthusiast
+Hi, I'm Ahmadullah Lutfi 👋
+DevOps Engineer | Linux | Automation | CI/CD | Cloud Technologies
 
 Welcome to my GitHub profile!
 
-I'm an IT professional interested in Linux system administration, infrastructure management, automation, and modern DevOps technologies.
+I'm focused on DevOps engineering, infrastructure automation, Linux system administration, and modern software delivery practices.
 
-I enjoy learning new technologies, solving technical problems, and building hands-on projects to expand my technical knowledge.
+I enjoy working with technologies that improve deployment automation, infrastructure reliability, scalability, and operational efficiency.
 
-🛠️ Technical Skills & Technologies
+🛠️ Technical Skills
+
 Operating Systems
+
 Red Hat Enterprise Linux (RHEL)
 Linux Administration
-Windows Server
+
 Version Control
+
 Git
 GitHub
-Repository Management
-Branching and Merging
-Scripting & Automation
-Bash Shell Scripting
-Linux Command Line
-Task Automation
-Infrastructure & Cloud
-IT Infrastructure Management
-Server Administration
-Networking Fundamentals
-Cloud Computing Fundamentals
-📚 Currently Learning
-Advanced Linux Administration
-Git and GitHub Workflows
+Git Branching and Merging
+
+DevOps & Automation
+
 Bash Scripting
-DevOps Fundamentals
-CI/CD Concepts
-Ansible Automation
-🚀 Hands-on Projects
+Ansible
+CI/CD Pipelines
+Infrastructure as Code
 
-Here are some areas I'm exploring through practical projects:
+Containers & Cloud
 
-Linux system administration and configuration
-Git and GitHub version control
+Docker
+Kubernetes
+AWS / Azure
+🚀 DevOps Technologies I'm Exploring
+Git and GitHub
+Jenkins
+Docker
+Kubernetes
+Ansible
+Terraform
+GitHub Actions
+AWS / Azure
+📂 Projects
+
+My hands-on learning projects include:
+
+Linux administration and configuration
+Git and GitHub repository management
 Bash scripting and automation
-Server management and troubleshooting
+CI/CD pipeline implementation
+Docker containerization
 Infrastructure automation
-🎯 Professional Goals
-Strengthen my Linux and infrastructure administration skills.
-Develop automation skills using Bash and Ansible.
-Build practical DevOps projects.
-Continue expanding my knowledge of cloud and enterprise technologies.
+🎯 Professional Interests
+DevOps Engineering
+Continuous Integration and Continuous Deployment
+Infrastructure Automation
+Cloud Infrastructure
+Container Orchestration
+Site Reliability Engineering (SRE)
+📚 Learning & Development
+
+Continuously learning, experimenting, and building practical projects to improve my DevOps engineering skills.
+
 📫 Connect With Me
 GitHub: https://github.com/lutfi-cloud-devops
 
-Always learning. Always improving. Always building.
+Automate everything. Build continuously. Improve constantly.
