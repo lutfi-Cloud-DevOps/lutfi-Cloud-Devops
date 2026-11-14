@@ -32,7 +32,7 @@ Used Docker for containerization.
 
 Technologies: Jenkins, Git, GitHub, Docker, Linux
 
-Project: GitHub Repository
+
 
 2. Kubernetes Deployment
 Deployed containerized applications using Kubernetes.
@@ -42,7 +42,7 @@ Used Docker images for application deployment.
 
 Technologies: Kubernetes, Docker, YAML, Linux
 
-Project: GitHub Repository
+
 
 3. AWS Cloud Infrastructure
 Created and configured cloud infrastructure using AWS.
