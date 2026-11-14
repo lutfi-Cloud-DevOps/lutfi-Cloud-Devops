@@ -70,6 +70,8 @@ Technologies: Ansible, Linux, YAML, SSH
 
 
 🎯 Professional Interests: 
+
+
 DevOps Engineering,
 Continuous Integration and Continuous Deployment,
 Infrastructure Automation,
