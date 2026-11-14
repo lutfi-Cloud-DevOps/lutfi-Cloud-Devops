@@ -7,50 +7,75 @@ I'm focused on DevOps engineering, infrastructure automation, Linux system admin
 
 I enjoy working with technologies that improve deployment automation, infrastructure reliability, scalability, and operational efficiency.
 
-🛠️ Technical Skills
+🚀 DevOps Technologies I have learned: 
 
-Operating Systems
-
-Red Hat Enterprise Linux (RHEL)
-Linux Administration
-
-Version Control
-
-Git
-GitHub
-Git Branching and Merging
-
-DevOps & Automation
-
+Linux system administration   
 Bash Scripting
-Ansible
-CI/CD Pipelines
-Infrastructure as Code
-
-Containers & Cloud
-
-Docker
-Kubernetes
-AWS / Azure
-🚀 DevOps Technologies I'm Exploring
-Git and GitHub
+Git
 Jenkins
 Docker
 Kubernetes
 Ansible
 Terraform
-GitHub Actions
-AWS / Azure
-📂 Projects
+AWS 
+📂 Projects:
 
-My hands-on learning projects include:
+Here are some of the DevOps projects I have worked on to build my practical experience in Cloud Computing, CI/CD, Containerization, Infrastructure as Code, and Automation.
 
-Linux administration and configuration
-Git and GitHub repository management
-Bash scripting and automation
-CI/CD pipeline implementation
-Docker containerization
-Infrastructure automation
+1. CI/CD Pipeline Using Jenkins
+Designed and implemented an automated CI/CD pipeline using Jenkins.
+Integrated GitHub for source code management.
+Automated build, test, and deployment processes.
+Used Docker for containerization.
+
+Technologies: Jenkins, Git, GitHub, Docker, Linux
+
+Project: GitHub Repository
+
+2. Kubernetes Deployment
+Deployed containerized applications using Kubernetes.
+Created Kubernetes Deployments and Services.
+Managed application scaling and availability.
+Used Docker images for application deployment.
+
+Technologies: Kubernetes, Docker, YAML, Linux
+
+Project: GitHub Repository
+
+3. AWS Cloud Infrastructure
+Created and configured cloud infrastructure using AWS.
+Worked with EC2, S3, IAM, and VPC.
+Configured security groups and networking.
+Deployed applications on AWS infrastructure.
+
+Technologies: AWS, EC2, S3, IAM, VPC, Linux
+
+
+4. Infrastructure as Code Using Terraform
+Automated infrastructure provisioning using Terraform.
+Created reusable Terraform configuration files.
+Managed AWS resources using Infrastructure as Code.
+
+Technologies: Terraform, AWS, HCL, Git
+
+
+5. Configuration Management Using Ansible
+Automated server configuration and software installation.
+Created Ansible Playbooks for configuration management.
+Managed multiple Linux servers.
+
+Technologies: Ansible, Linux, YAML, SSH
+
+🛠️ DevOps Skills
+Cloud: AWS
+CI/CD: Jenkins, GitHub Actions
+Containers: Docker, Kubernetes
+Infrastructure as Code: Terraform
+Configuration Management: Ansible
+Version Control: Git, GitHub
+Operating Systems: Linux
+Scripting: Bash, Python
+
 🎯 Professional Interests
 DevOps Engineering
 Continuous Integration and Continuous Deployment
