@@ -69,7 +69,7 @@ Managed multiple Linux servers.
 Technologies: Ansible, Linux, YAML, SSH
 
 
-🎯 Professional Interests
+🎯 Professional Interests: 
 DevOps Engineering,
 Continuous Integration and Continuous Deployment,
 Infrastructure Automation,
