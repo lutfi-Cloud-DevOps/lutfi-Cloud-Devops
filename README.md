@@ -79,11 +79,10 @@ Operating Systems: Linux
 Scripting: Bash, Python
 
 🎯 Professional Interests
-DevOps Engineering
-Continuous Integration and Continuous Deployment
-Infrastructure Automation
-Cloud Infrastructure
-Container Orchestration
+DevOps Engineering,
+Continuous Integration and Continuous Deployment,
+Infrastructure Automation,
+Container Orchestration,
 Site Reliability Engineering (SRE)
 📚 Learning & Development
 
