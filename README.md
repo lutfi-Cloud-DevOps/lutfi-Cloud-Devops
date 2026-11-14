@@ -68,15 +68,6 @@ Managed multiple Linux servers.
 
 Technologies: Ansible, Linux, YAML, SSH
 
-🛠️ DevOps Skills
-Cloud: AWS
-CI/CD: Jenkins, GitHub Actions
-Containers: Docker, Kubernetes
-Infrastructure as Code: Terraform
-Configuration Management: Ansible
-Version Control: Git, GitHub
-Operating Systems: Linux
-Scripting: Bash, Python
 
 🎯 Professional Interests
 DevOps Engineering,
