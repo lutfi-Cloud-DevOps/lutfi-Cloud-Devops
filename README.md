@@ -10,14 +10,14 @@ I enjoy working with technologies that improve deployment automation, infrastruc
 🚀 DevOps Technologies I have learned: 
 
 Linux system administration   
-Bash Scripting
-Git
-Jenkins
-Docker
-Kubernetes
-Ansible
-Terraform
-AWS 
+Bash Scripting,
+Git,
+Jenkins,
+Docker,
+Kubernetes,
+Ansible,
+Terraform,
+AWS. 
 📂 Projects:
 
 Here are some of the DevOps projects I have worked on to build my practical experience in Cloud Computing, CI/CD, Containerization, Infrastructure as Code, and Automation.
