@@ -18,6 +18,8 @@ Kubernetes,
 Ansible,
 Terraform,
 AWS. 
+
+
 📂 Projects:
 
 Here are some of the DevOps projects I have worked on to build my practical experience in Cloud Computing, CI/CD, Containerization, Infrastructure as Code, and Automation.
