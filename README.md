@@ -9,7 +9,7 @@ I enjoy working with technologies that improve deployment automation, infrastruc
 
 🚀 DevOps Technologies I have learned: 
 
-Linux system administration   
+Linux system administration,   
 Bash Scripting,
 Git,
 Jenkins,
