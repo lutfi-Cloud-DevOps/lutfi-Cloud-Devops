@@ -1,5 +1,5 @@
 Hi, I'm Ahmadullah Lutfi 👋
-DevOps Engineer | Linux | Automation | CI/CD | Cloud Technologies
+AWS Cloud/DevOps Engineer
 
 Welcome to my GitHub profile!
 
